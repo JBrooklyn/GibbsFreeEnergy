@@ -1,1 +1,1 @@
-# GibbsFreeEnergy
+This repo is for testing purposes ONLY! For now that it is, once i learn something cool enough to match this repo name, i will replace it.

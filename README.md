@@ -1,1 +1,1 @@
-This repo is for testing purposes ONLY! For now that it is, once i learn something cool enough to match this repo name, i will replace it.
+This repo is for testing purposes ONLY! For now that it is, once I learn something cool enough to match this repo name, I will replace it.
